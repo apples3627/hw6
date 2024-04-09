@@ -1,0 +1,7 @@
+6
+4 G H
+8 E M
+8 E M
+8 G H
+8 E M
+4 C L
